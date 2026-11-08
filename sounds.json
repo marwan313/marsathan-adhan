@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "sounds": [
+    {
+      "id": "default1",
+      "name": "الحرم المدني",
+      "description": "الحرم المدني",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/mdmd.mp3",
+      "size": 627167
+    },
+    {
+      "id": "default3",
+      "name": "المسجد الأقصى",
+      "description": "المسجد الأقصى",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/aksa.mp3",
+      "size": 516381
+    },
+    {
+      "id": "default2",
+      "name": "عبدالباسط",
+      "description": "عبدالباسط عبدالصمد",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/abd.mp3",
+      "size": 1576485
+    },
+    {
+      "id": "makkah",
+      "name": "أحمد جلال يحيى",
+      "description": "صوت المؤذن أحمد جلال يحيى",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/bb.mp3",
+      "size": 2173751
+    },
+    {
+      "id": "madinah",
+      "name": "رابح بن دراح الجزائري",
+      "description": "رابح بن دراح الجزائري",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/cc.mp3",
+      "size": 1390802
+    },
+    {
+      "id": "cairo",
+      "name": "أذان الكويت",
+      "description": "أحمد الطرابلسي",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/kk.mp3",
+      "size": 1982797
+    },
+    {
+      "id": "mashary",
+      "name": "مشاري بن راشد العفاسي",
+      "description": "مشاري بن راشد العفاسي",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/mashary.mp3",
+      "size": 1995676
+    },
+    {
+      "id": "quran",
+      "name": "الشيخ ناصر القطامي",
+      "description": "الشيخ ناصر القطامي",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/qqq.mp3",
+      "size": 1170247
+    },
+    {
+      "id": "morocco",
+      "name": "حمزة المجالي",
+      "description": "حمزة المجالي",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/hmz.mp3",
+      "size": 1481631
+    },
+    {
+      "id": "morocco1",
+      "name": "احمد الكوردي",
+      "description": "احمد الكوردي",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/kr.mp3",
+      "size": 1663939
+    },
+    {
+      "id": "fars",
+      "name": "فارس عبدالغني",
+      "description": "فارس عبدالغني",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/fars.mp3",
+      "size": 2164386
+    },
+    {
+      "id": "syria",
+      "name": "الحاج مصطفى الصراف",
+      "description": "الحاج مصطفى الصراف",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/sh.mp3",
+      "size": 1553024
+    },
+    {
+      "id": "iraq",
+      "name": "الحاج كاظم زاده",
+      "description": "حاج كاظم زاده",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/zaza.mp3",
+      "size": 1655032
+    },
+    {
+      "id": "commons_makkah2013",
+      "name": "الحرم المكي ٢٠١٣",
+      "description": "تسجيل: Seyfula Islam · CC BY 3.0",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v2/commons_makkah2013.mp3",
+      "size": 2294013
+    },
+    {
+      "id": "commons_maghrib2012",
+      "name": "مغرب الحرم المكي",
+      "description": "تسجيل: 3omar Faruq · CC BY 3.0",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v2/commons_maghrib2012.mp3",
+      "size": 2208749
+    },
+    {
+      "id": "commons_beautiful",
+      "name": "أذان جميل",
+      "description": "تسجيل: Adam-synagda · ملكية عامة",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v2/commons_beautiful.mp3",
+      "size": 1848886
+    },
+    {
+      "id": "commons_andrewler",
+      "name": "أذان Andrewler",
+      "description": "تسجيل: Andrewler · CC BY-SA 4.0",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v2/commons_andrewler.mp3",
+      "size": 2202479
+    },
+    {
+      "id": "commons_hassan2",
+      "name": "مسجد الحسن الثاني",
+      "description": "الدار البيضاء · تسجيل: Fraguando · CC BY-SA 4.0",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v2/commons_hassan2.mp3",
+      "size": 2109066
+    },
+    {
+      "id": "commons_mahur",
+      "name": "أذان مقام ماهور",
+      "description": "سعيد حاتم‌زاده ورمزيار · CC BY-SA 4.0",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v2/commons_mahur.mp3",
+      "size": 2013771
+    }
+  ]
+}
