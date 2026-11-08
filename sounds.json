@@ -126,6 +126,13 @@
       "description": "سعيد حاتم‌زاده ورمزيار · CC BY-SA 4.0",
       "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v2/commons_mahur.mp3",
       "size": 2013771
+    },
+    {
+      "id": "test_missing_file",
+      "name": "اختبار ملف محذوف",
+      "description": "temporary test entry",
+      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v2/test_missing_file.mp3",
+      "size": 1000
     }
   ]
 }
