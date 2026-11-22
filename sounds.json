@@ -78,20 +78,7 @@
       "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/fars.mp3",
       "size": 2164386
     },
-    {
-      "id": "syria",
-      "name": "الحاج مصطفى الصراف",
-      "description": "الحاج مصطفى الصراف",
-      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/sh.mp3",
-      "size": 1553024
-    },
-    {
-      "id": "iraq",
-      "name": "الحاج كاظم زاده",
-      "description": "حاج كاظم زاده",
-      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v1/zaza.mp3",
-      "size": 1655032
-    },
+    
     {
       "id": "commons_makkah2013",
       "name": "الحرم المكي ٢٠١٣",
