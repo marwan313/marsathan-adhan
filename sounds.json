@@ -113,20 +113,7 @@
       "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v2/commons_beautiful.mp3",
       "size": 1848886
     },
-    {
-      "id": "sharqawi",
-      "name": "احمد الشرقاوي",
-      "description": "احمد الشرقاوي",
-      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v2/default.mp3",
-      "size": 1848886
-    },
-    {
-      "id": "ali",
-      "name": "علي بن احمد",
-      "description": "علي بن احمد",
-      "url": "https://github.com/marwan313/marsathan-adhan/releases/download/v2/ali.mp3",
-      "size": 481000
-    },
+    
     {
       "id": "commons_mahur",
       "name": "أذان مقام ماهور",
